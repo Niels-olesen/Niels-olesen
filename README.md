@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Niels-olesen
+- 👀 I’m interested in Coding for home projects (Python, mySQL, PHP, HTML5, Arduino etc.)...
+- 🌱 I’m currently learning all of the above
